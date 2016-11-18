@@ -130,9 +130,7 @@ def q3():
 
     mogEM(inputs_train, 20, 5, 0.01)
 
-    # Train a MoG model with 20 components on all 600 training
-    # vectors, with both original initialization and kmeans initialization.
-    # ------------------- Add your code here ---------------------
+  --------------------
 
     raw_input('Press Enter to continue.')
 
