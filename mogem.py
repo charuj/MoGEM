@@ -130,7 +130,7 @@ def q3():
 
     mogEM(inputs_train, 20, 5, 0.01)
 
-  --------------------
+
 
     raw_input('Press Enter to continue.')
 
